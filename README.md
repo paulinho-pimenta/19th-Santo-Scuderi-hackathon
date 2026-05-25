@@ -1,2 +1,2 @@
-# 19th-Santo-Scuderi-hackathon
-There will be some code from the last Santo Scuderi hackathon
+# 19th Santo-Scuderi hackathon
+## Here have some challenges from the hackathon
